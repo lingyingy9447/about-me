@@ -25,7 +25,9 @@
 
 ### Things I like to do 
 * Dance 
+  * Kpop 
 * Listen to Music 
+  * Cpop 
 * Eat 
 
 - - - 
