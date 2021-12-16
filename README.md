@@ -1,12 +1,12 @@
 # about-me
 
-Name: Ling Ying Yang 
+## Name: Ling Ying Yang 
 
-Email: lingyingy9447@hstat.org 
+## Email: lingyingy9447@hstat.org 
 
-School: High School of Telecommunication of Art and Technology 
+## School: High School of Telecommunication of Art and Technology 
 
-Bio: I am born in Fujian in China. I am currently enrolled in the Software Engineering Program (SEP) that my school offered. I like to dance and listen to music on leisure time. I have a older sister and a younger brother. 
+## Bio: I am born in Fujian in China. I am currently enrolled in the _Software Engineering Program_ (SEP) that my school offered. I like to dance and isten to music on leisure time. I have a older sister and a younger brother. 
 
 Schedule : 
 1) Global History 
@@ -19,7 +19,7 @@ Schedule :
 
 5) Big History Project 
 
-6) SEP 
+6) **SEP**
 
 7) Lunch 
 
