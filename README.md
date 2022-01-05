@@ -32,6 +32,6 @@
 
 - - - 
 
-**Hi!** You have reach the end of this repo  
-Hope you enjoyed and have a nice day
+**Hi!** You have reach the end of this repo.  
+Hope you enjoyed and have a nice day! 
 
